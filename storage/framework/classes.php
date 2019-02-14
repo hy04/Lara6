@@ -11,4 +11,13 @@
   'RainLab\\Blog\\Components\\Post' => 'plugins/rainlab/blog/components/Post.php',
   'RainLab\\Blog\\Components\\Categories' => 'plugins/rainlab/blog/components/Categories.php',
   'RainLab\\Blog\\Components\\RssFeed' => 'plugins/rainlab/blog/components/RssFeed.php',
+  'rainlab\\blog\\Controllers\\posts' => 'plugins/rainlab/blog/controllers/posts.php',
+  'RainLab\\Blog\\Models\\PostImport' => 'plugins/rainlab/blog/models/PostImport.php',
+  'RainLab\\Blog\\Models\\PostExport' => 'plugins/rainlab/blog/models/PostExport.php',
+  'backend\\Controllers\\media' => 'modules/backend/controllers/media.php',
+  'RainLab\\Blog\\FormWidgets\\BlogMarkdown' => 'plugins/rainlab/blog/formwidgets/BlogMarkdown.php',
+  'system\\Controllers\\settings' => 'modules/system/controllers/settings.php',
+  'cms\\Controllers\\themes' => 'modules/cms/controllers/themes.php',
+  'heyang\\resources\\Plugin' => 'plugins/heyang/resources/Plugin.php',
+  'Heyang\\Resources\\Components\\Links' => 'plugins/heyang/resources/components/Links.php',
 );
